@@ -1,10 +1,10 @@
-# 🐍 ShadowFox Python Internship – Beginner Task 1
+#  ShadowFox Python Internship – Beginner Task 1
 
 ## Task: Marvel Avengers List Operations
  
 This is my first beginner-level task for the ShadowFox Python Development Internship. As part of the task, I chose to work with a custom list using Marvel's Avengers team instead of the originally given Justice League example (just a personal touch for fun 😊).
 
-### ✅ What I Did
+###  What I Did
 
 - I created a list of Avengers including Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye.
 - Then I added two more characters – Spider-Man and Doctor Strange – to show how `append()` works.
@@ -15,17 +15,21 @@ This is my first beginner-level task for the ShadowFox Python Development Intern
 
 Each step includes a print statement so it’s easy to follow what’s happening with the list.
 
-### ⚙️ Technologies Used
+###  Technologies Used
 
 - **Python 3**
 - Google Colab (you can run it on Jupyter Notebook too)
 
-### 📁 File Info
+###  File Info
 
 - **Notebook Name:** `Beginner_Task1_Marvel_ShadowFox.ipynb`
 - **Repository:** ShadowFox_Python_Internship
 
-### 📝 Notes
+### Output
+<img width="1366" height="684" alt="Image" src="https://github.com/user-attachments/assets/bd102fb6-b42c-40e5-b4a3-51295af97b28" />
+<img width="1366" height="688" alt="Image" src="https://github.com/user-attachments/assets/5c6ef46d-e544-4903-852a-9ebb02cc746a" />
+
+###  Notes
 
 This task helped me understand the core list operations in Python like `append()`, `insert()`, `remove()`, `sort()`, and using `index()` properly. I’ve added comments throughout the code to make it readable and easy to understand.
 
