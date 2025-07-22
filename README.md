@@ -2,7 +2,7 @@
 
 ## Task: Marvel Avengers List Operations
  
-This is my first beginner-level task for the ShadowFox Python Development Internship. As part of the task, I chose to work with a custom list using Marvel's Avengers team instead of the originally given Justice League example (just a personal touch for fun 😊).
+This is my first beginner-level task for the ShadowFox Python Development Internship. As part of the task, I chose to work with a custom list using Marvel's Avengers team.
 
 ###  What I Did
 
