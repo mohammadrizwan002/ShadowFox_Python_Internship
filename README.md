@@ -22,7 +22,7 @@ Each step includes a print statement so it’s easy to follow what’s happening
 
 ###  File Info
 
-- **Notebook Name:** `Beginner_Task1_Marvel_ShadowFox.ipynb`
+- **Notebook Name:** `Beginner_Task1_ShadowFox.ipynb`
 - **Repository:** ShadowFox_Python_Internship
 
 ### Output
