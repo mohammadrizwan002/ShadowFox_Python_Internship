@@ -48,5 +48,5 @@ Screenshots of the code and outputs are
 
 ---
 
-Thanks to the ShadowFox team for this fantastic learning opportunity. Looking forward to Intermediate and Advanced levels ahead!
+Thanks to the ShadowFox team for this fantastic learning opportunity.!
 
